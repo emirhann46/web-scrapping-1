@@ -1,0 +1,469 @@
+[
+    {
+        "code": "USD",
+        "name": "Amerikan Doları",
+        "buy": "37,8409",
+        "sell": "38,1137",
+        "change": "38,0813"
+    },
+    {
+        "code": "EUR",
+        "name": "Euro",
+        "buy": "41,3004",
+        "sell": "42,0543",
+        "change": "42,2465"
+    },
+    {
+        "code": "GBP",
+        "name": "İngiliz Sterlini",
+        "buy": "48,6619",
+        "sell": "49,3487",
+        "change": "49,9269"
+    },
+    {
+        "code": "CHF",
+        "name": "İsviçre Frangı",
+        "buy": "43,9499",
+        "sell": "44,2977",
+        "change": "44,8382"
+    },
+    {
+        "code": "CAD",
+        "name": "Kanada Doları",
+        "buy": "26,5811",
+        "sell": "26,7916",
+        "change": "27,0305"
+    },
+    {
+        "code": "",
+        "buy": "",
+        "sell": "",
+        "change": ""
+    },
+    {
+        "code": "RUB",
+        "name": "Rus Rublesi",
+        "buy": "0,4480",
+        "sell": "0,4512",
+        "change": "0,4544"
+    },
+    {
+        "code": "AED",
+        "name": "BAE Dirhemi",
+        "buy": "10,3013",
+        "sell": "10,3773",
+        "change": "10,3597"
+    },
+    {
+        "code": "AUD",
+        "name": "Avustralya Doları",
+        "buy": "22,8408",
+        "sell": "23,0359",
+        "change": "24,0913"
+    },
+    {
+        "code": "DKK",
+        "name": "Danimarka Kronu",
+        "buy": "5,5532",
+        "sell": "5,6030",
+        "change": "5,6565"
+    },
+    {
+        "code": "SEK",
+        "name": "İsveç Kronu",
+        "buy": "3,7793",
+        "sell": "3,8161",
+        "change": "3,9000"
+    },
+    {
+        "code": "",
+        "buy": "",
+        "sell": "",
+        "change": ""
+    },
+    {
+        "code": "NOK",
+        "name": "Norveç Kronu",
+        "buy": "3,5070",
+        "sell": "3,5505",
+        "change": "3,6902"
+    },
+    {
+        "code": "JPY",
+        "name": "Japon Yeni",
+        "buy": "0,2581",
+        "sell": "0,2595",
+        "change": "0,2632"
+    },
+    {
+        "code": "KWD",
+        "name": "Kuveyt Dinarı",
+        "buy": "122,7305",
+        "sell": "124,0626",
+        "change": "123,6121"
+    },
+    {
+        "code": "ZAR",
+        "name": "Güney Afrika Randı",
+        "buy": "1,9790",
+        "sell": "1,9964",
+        "change": "2,0344"
+    },
+    {
+        "code": "BHD",
+        "name": "Bahreyn Dinarı",
+        "buy": "100,3844",
+        "sell": "101,1081",
+        "change": "100,7460"
+    },
+    {
+        "code": "LYD",
+        "name": "Libya Dinarı",
+        "buy": "7,8534",
+        "sell": "7,9100",
+        "change": "101,7580"
+    },
+    {
+        "code": "SAR",
+        "name": "Suudi Arabistan Riyali",
+        "buy": "10,0708",
+        "sell": "10,1683",
+        "change": "10,1427"
+    },
+    {
+        "code": "IQD",
+        "name": "Irak Dinarı",
+        "buy": "0,0290",
+        "sell": "0,0292",
+        "change": "10,4440"
+    },
+    {
+        "code": "ILS",
+        "name": "İsrail Şekeli",
+        "buy": "10,1290",
+        "sell": "10,2020",
+        "change": "10,4440"
+    },
+    {
+        "code": "IRR",
+        "name": "İran Riyali",
+        "buy": "0,0009",
+        "sell": "0,0009",
+        "change": "0,0009"
+    },
+    {
+        "code": "INR",
+        "name": "Hindistan Rupisi",
+        "buy": "0,4428",
+        "sell": "0,4460",
+        "change": "0,4444"
+    },
+    {
+        "code": "MXN",
+        "name": "Meksika Pesosu",
+        "buy": "1,8524",
+        "sell": "1,8658",
+        "change": "1,8591"
+    },
+    {
+        "code": "HUF",
+        "name": "Macar Forinti",
+        "buy": "0,1022",
+        "sell": "0,1029",
+        "change": "1,9204"
+    },
+    {
+        "code": "NZD",
+        "name": "Yeni Zelanda Doları",
+        "buy": "21,1780",
+        "sell": "21,3307",
+        "change": "21,2543"
+    },
+    {
+        "code": "BRL",
+        "name": "Brezilya Reali",
+        "buy": "6,4766",
+        "sell": "6,5233",
+        "change": "22,1622"
+    },
+    {
+        "code": "IDR",
+        "name": "Endonezya Rupiahi",
+        "buy": "0,0023",
+        "sell": "0,0023",
+        "change": "6,7949"
+    },
+    {
+        "code": "CZK",
+        "name": "Çek Korunası",
+        "buy": "1,6417",
+        "sell": "1,6535",
+        "change": "6,7949"
+    },
+    {
+        "code": "PLN",
+        "name": "Polonya Zlotisi",
+        "buy": "9,7317",
+        "sell": "9,8019",
+        "change": "9,7668"
+    },
+    {
+        "code": "RON",
+        "name": "Romanya Leyi",
+        "buy": "8,3277",
+        "sell": "8,4025",
+        "change": "8,4797"
+    },
+    {
+        "code": "CNY",
+        "name": "Çin Yuanı",
+        "buy": "5,2192",
+        "sell": "5,2211",
+        "change": "5,2202"
+    },
+    {
+        "code": "ARS",
+        "name": "Arjantin Pesosu",
+        "buy": "0,0353",
+        "sell": "0,0355",
+        "change": "5,7190"
+    },
+    {
+        "code": "ALL",
+        "name": "Arnavutluk Leki",
+        "buy": "0,4225",
+        "sell": "0,4255",
+        "change": "0,4240"
+    },
+    {
+        "code": "AZN",
+        "name": "Azerbaycan Manatı",
+        "buy": "22,2594",
+        "sell": "22,4198",
+        "change": "22,3395"
+    },
+    {
+        "code": "BAM",
+        "name": "Bosna-Hersek Markı",
+        "buy": "21,4190",
+        "sell": "21,5734",
+        "change": "22,8740"
+    },
+    {
+        "code": "CLP",
+        "name": "Şili Pesosu",
+        "buy": "0,0386",
+        "sell": "0,0389",
+        "change": "22,8740"
+    },
+    {
+        "code": "COP",
+        "name": "Kolombiya Pesosu",
+        "buy": "0,0090",
+        "sell": "0,0090",
+        "change": "22,8740"
+    },
+    {
+        "code": "CRC",
+        "name": "Kostarika Kolonu",
+        "buy": "0,0751",
+        "sell": "0,0756",
+        "change": "0,0754"
+    },
+    {
+        "code": "DZD",
+        "name": "Cezayir Dinarı",
+        "buy": "0,2826",
+        "sell": "0,2847",
+        "change": "0,2836"
+    },
+    {
+        "code": "EGP",
+        "name": "Mısır Lirası",
+        "buy": "0,7482",
+        "sell": "0,7536",
+        "change": "0,7509"
+    },
+    {
+        "code": "HKD",
+        "name": "Hong Kong Doları",
+        "buy": "4,8673",
+        "sell": "4,9024",
+        "change": "4,8848"
+    },
+    {
+        "code": "ISK",
+        "name": "İzlanda Kronası",
+        "buy": "0,2863",
+        "sell": "0,2884",
+        "change": "4,9329"
+    },
+    {
+        "code": "JOD",
+        "name": "Ürdün Dinarı",
+        "buy": "53,3797",
+        "sell": "53,7646",
+        "change": "53,5720"
+    },
+    {
+        "code": "KRW",
+        "name": "Güney Kore Wonu",
+        "buy": "0,0259",
+        "sell": "0,0261",
+        "change": "54,0917"
+    },
+    {
+        "code": "KZT",
+        "name": "Kazak Tengesi",
+        "buy": "0,0749",
+        "sell": "0,0754",
+        "change": "0,0752"
+    },
+    {
+        "code": "LBP",
+        "name": "Lübnan Lirası",
+        "buy": "0,0004",
+        "sell": "0,0004",
+        "change": "0,0764"
+    },
+    {
+        "code": "LKR",
+        "name": "Sri Lanka Rupisi",
+        "buy": "0,1281",
+        "sell": "0,1290",
+        "change": "0,1285"
+    },
+    {
+        "code": "MAD",
+        "name": "Fas Dirhemi",
+        "buy": "3,9668",
+        "sell": "3,9954",
+        "change": "3,9811"
+    },
+    {
+        "code": "MDL",
+        "name": "Moldovya Leusu",
+        "buy": "2,1494",
+        "sell": "2,1649",
+        "change": "2,1572"
+    },
+    {
+        "code": "MKD",
+        "name": "Makedon Dinarı",
+        "buy": "0,6739",
+        "sell": "0,6788",
+        "change": "0,6764"
+    },
+    {
+        "code": "MYR",
+        "name": "Malezya Ringgiti",
+        "buy": "8,5285",
+        "sell": "8,5900",
+        "change": "8,5592"
+    },
+    {
+        "code": "OMR",
+        "name": "Umman Riyali",
+        "buy": "98,2932",
+        "sell": "99,0018",
+        "change": "98,6472"
+    },
+    {
+        "code": "PEN",
+        "name": "Peru İnti",
+        "buy": "10,3362",
+        "sell": "10,4107",
+        "change": "10,3734"
+    },
+    {
+        "code": "PHP",
+        "name": "Filipinler Pesosu",
+        "buy": "0,6592",
+        "sell": "0,6639",
+        "change": "0,6615"
+    },
+    {
+        "code": "PKR",
+        "name": "Pakistan Rupisi",
+        "buy": "0,1346",
+        "sell": "0,1370",
+        "change": "0,1360"
+    },
+    {
+        "code": "QAR",
+        "name": "Katar Riyali",
+        "buy": "10,0432",
+        "sell": "10,8999",
+        "change": "10,4856"
+    },
+    {
+        "code": "RSD",
+        "name": "Sırbistan Dinarı",
+        "buy": "0,3521",
+        "sell": "0,3594",
+        "change": "0,3606"
+    },
+    {
+        "code": "SGD",
+        "name": "Singapur Doları",
+        "buy": "28,1032",
+        "sell": "28,3058",
+        "change": "28,2044"
+    },
+    {
+        "code": "SYP",
+        "name": "Suriye Lirası",
+        "buy": "0,0029",
+        "sell": "0,0029",
+        "change": "28,7214"
+    },
+    {
+        "code": "THB",
+        "name": "Tayland Bahtı",
+        "buy": "1,0993",
+        "sell": "1,1072",
+        "change": "1,1032"
+    },
+    {
+        "code": "TWD",
+        "name": "Yeni Tayvan Doları",
+        "buy": "1,1401",
+        "sell": "1,1483",
+        "change": "1,1442"
+    },
+    {
+        "code": "UAH",
+        "name": "Ukrayna Grivnası",
+        "buy": "0,9137",
+        "sell": "0,9203",
+        "change": "0,9170"
+    },
+    {
+        "code": "UYU",
+        "name": "Uruguay Pesosu",
+        "buy": "0,8980",
+        "sell": "0,9045",
+        "change": "0,9341"
+    },
+    {
+        "code": "GEL",
+        "name": "Gürcistan Larisi",
+        "buy": "13,7603",
+        "sell": "13,8595",
+        "change": "13,8099"
+    },
+    {
+        "code": "TND",
+        "name": "Tunus Dinarı",
+        "buy": "12,4028",
+        "sell": "12,4922",
+        "change": "13,9439"
+    },
+    {
+        "code": "BGN",
+        "name": "Bulgar Levası",
+        "buy": "21,2027",
+        "sell": "21,3220",
+        "change": "21,5991"
+    }
+]
